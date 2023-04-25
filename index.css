@@ -1,0 +1,21 @@
+@media screen and (max-width:375px){
+    body{
+        background-color: hsl(212, 45%, 89%)
+    }
+   .nhg{
+    background-color: hsl(212, 45%, 89%);border-radius: 5px;padding-bottom: 60px;
+        padding-top: 60px;
+        margin-top: 60px;
+}
+   
+   }
+
+
+@media screen and (min-width:1440px) {
+    
+    .nhg{
+        background-color: hsl(212, 45%, 89%);border-radius: 5px;padding-bottom: 60px;
+        padding-top: 60px;
+        margin-top: 110px;
+    }
+}
